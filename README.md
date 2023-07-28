@@ -6,7 +6,7 @@ This package is an excuse to learn C++ and ROS2. Feel free to use it as you want
 
 ```bash
 cd ros_ws/src
-git clone https://github.com/Tim-HW/ROS2-PotentialField.git
+git clone https://github.com/Tim-HW/ROS2-Path-Planning-Turtlebot3-DynamicWindow.git
 cd ..
 colcon build
 source install/setup.bash
