@@ -1,4 +1,16 @@
 # ROS2-Path-Planning-Turtlebot3-DynamicWindow
+ROS2 Package for turtlebot3 to execute local path planning using the dynamic methods.
+This package is an excuse to learn C++ and ROS2. Feel free to use it as you want :D
+
+## Installation
+
+```bash
+cd ros_ws/src
+git clone https://github.com/Tim-HW/ROS2-PotentialField.git
+cd ..
+colcon build
+source install/setup.bash
+```
 
 ## Dynamic Window paradigm
 The Dynamic Window Approach (DWA) is a popular motion planning algorithm used in robotics to plan the movement of a robot in an environment with obstacles. It is specifically designed for mobile robots operating in 2D space and is widely used in applications like mobile robotics, autonomous vehicles, and robotic navigation.
